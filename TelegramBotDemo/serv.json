@@ -1,0 +1,17 @@
+{
+  "name": "serv",
+  "services": [
+    {
+      "name": "Simple Manicure",
+      "price": 10
+    },
+    {
+      "name": "Manicure with picture",
+      "price": 15
+    },
+    {
+      "name": "Pedicure",
+      "price": 20
+    }
+  ]
+}
