@@ -7,4 +7,5 @@ The main functions for the user: convenient registration for various types of ma
 the rate of which is updated in real time.  View the portfolio of the nail technician, view information about the salon,
 switch to a convenient language,
 cancel the appointment.
+
 Run: Service data storage is written in a Json file.  Checking the phone number goes through regex.  Records are stored in a collection.
